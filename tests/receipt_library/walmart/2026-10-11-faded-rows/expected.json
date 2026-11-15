@@ -1,0 +1,80 @@
+{
+  "reviewed": true,
+  "reviewed_by": "Written by Claude from the receipt photo and the maintainer's 2026-10-31 Dell rerun (RL-000073 updated: 11 rows, 48.71 taxed at 8.25%). The maintainer confirmed LDSSGLZH0NBN = 2.00 from the photo on 2026-11-02.",
+  "known_issue": "RL-68 (was RL-38): four faded rows (LDSSGLZH0NBN, CHEESECAKE 6.72, GLASS WIPES, second FRENCH BREAD) have no readable price in OCR; the parser offers them as missing-item lines and the reviewer adds them by hand.",
+  "layout_notes": "Walmart layout: name, 12-digit UPC, F flag, price, tax flag (N/X). Print is faded in the top rows. LDSSGLZH0NBN price is too faint to read; 2.00 is the subtotal 78.50 minus the ten readable prices. OCR reads LDSSGLZHONBN with a zero. AVOCADO is 3 AT 1 FOR 0.56 = 1.68 on its own line. Printed '# ITEMS SOLD 11'. Header and payment lines left out (see ocr.json redaction).",
+  "store_name": "Walmart",
+  "transaction_date": "2026-10-11",
+  "items": [
+    {
+      "name": "LDSSGLZH0NBN",
+      "quantity": 1,
+      "line_total": 2.0,
+      "tax_marker": "N"
+    },
+    {
+      "name": "CHEESECAKE",
+      "quantity": 1,
+      "line_total": 6.72,
+      "tax_marker": "N"
+    },
+    {
+      "name": "GLASS WIPES",
+      "quantity": 1,
+      "line_total": 3.97,
+      "tax_marker": "X"
+    },
+    {
+      "name": "FRENCH BREAD",
+      "quantity": 1,
+      "line_total": 1.47,
+      "tax_marker": "N"
+    },
+    {
+      "name": "FRENCH BREAD",
+      "quantity": 1,
+      "line_total": 1.47,
+      "tax_marker": "N"
+    },
+    {
+      "name": "CHEESECAKE",
+      "quantity": 1,
+      "line_total": 7.98,
+      "tax_marker": "N"
+    },
+    {
+      "name": "DRY SAUSAGE",
+      "quantity": 1,
+      "line_total": 8.47,
+      "tax_marker": "N"
+    },
+    {
+      "name": "SITE MERCH",
+      "quantity": 1,
+      "line_total": 14.88,
+      "tax_marker": "X"
+    },
+    {
+      "name": "SITE MERCH",
+      "quantity": 1,
+      "line_total": 14.88,
+      "tax_marker": "X"
+    },
+    {
+      "name": "AVOCADO",
+      "quantity": 3,
+      "line_total": 1.68,
+      "tax_marker": "N"
+    },
+    {
+      "name": "LATCH BOXES",
+      "quantity": 1,
+      "line_total": 14.98,
+      "tax_marker": "X"
+    }
+  ],
+  "subtotal": 78.5,
+  "tax": 4.02,
+  "total": 82.52,
+  "printed_item_count": 11
+}

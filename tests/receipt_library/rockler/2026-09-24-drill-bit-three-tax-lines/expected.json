@@ -1,0 +1,20 @@
+{
+  "reviewed": true,
+  "reviewed_by": "Written by Claude from the OCR Diagnostic JSON and the maintainer's 2026-11-01 Dell rerun (tax corrected to 0.90, saved RL-000029). Maintainer to confirm.",
+  "layout_notes": "Tax printed on three lines (1.125% $0.12, 0.875% $0.09, 6.25% $0.69 = $0.90) plus 'Tax on charges $0.00'. Item name on one line, then 'SKU unit qty total' on the next. No tax markers. Street address, customer number, employee number and card digits masked.",
+  "known_issue": "RL-67 OCR reads the middle tax line $0.09 as $0.08 (tax 0.89); app warns about the 1-cent difference",
+  "store_name": "Rockler",
+  "transaction_date": "2026-09-24",
+  "items": [
+    {
+      "name": "7/16 BRAD POINT DRILL-CD",
+      "quantity": 1,
+      "line_total": 10.99,
+      "tax_marker": null
+    }
+  ],
+  "subtotal": 10.99,
+  "tax": 0.9,
+  "total": 11.89,
+  "printed_item_count": null
+}

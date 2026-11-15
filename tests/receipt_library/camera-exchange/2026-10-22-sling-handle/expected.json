@@ -1,0 +1,19 @@
+{
+  "reviewed": true,
+  "reviewed_by": "Written by Claude from the maintainer's OCR Diagnostic JSON (job 716c3c0c, Dell, 2026-11-02) and the RL-64 ticket. Maintainer to confirm against the photo.",
+  "layout_notes": "Small-shop POS layout: two-line column header 'Item Qty Price Total' / 'Description'. Each item prints 'code qty price total' (601-10171 1 59.90 59.90) with the name on the line below. 'Number of items purchased:1' read as 'Noher of items purchased:1'. Customer name, email, card digits, auth, ticket and loyalty numbers masked; street address replaced with a made-up one of the same shape.",
+  "store_name": "The Camera Exchange, Inc.",
+  "transaction_date": "2026-10-22",
+  "items": [
+    {
+      "name": "SmallRig Sling Handle for DJI",
+      "quantity": 1,
+      "line_total": 59.9,
+      "tax_marker": null
+    }
+  ],
+  "subtotal": 59.9,
+  "tax": 4.94,
+  "total": 64.84,
+  "printed_item_count": 1
+}

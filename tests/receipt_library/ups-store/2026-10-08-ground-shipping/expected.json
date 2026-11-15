@@ -1,0 +1,19 @@
+{
+  "reviewed": true,
+  "reviewed_by": "Written by Claude from the OCR Diagnostic JSON and receipt photo in the maintainer's 2026-11-01 Dell rerun (RL-000060). Maintainer to confirm.",
+  "layout_notes": "Header 'The UPS Store #0123' read by OCR as 'The UPS Store 10123' (# as 1); the terminal ID P0S0123A confirms the store number. Address on two lines (street + STE 2, then city/state/ZIP). One item 'Ground $16.97' with a '1 @ $16.97' detail row read as '13 $16.97'. 'Tax $0.00' printed as an item-style row; OCR read it as 'Tex $0.00'. Street address, phones and employee number masked.",
+  "store_name": "The UPS Store #0123",
+  "transaction_date": "2026-10-08",
+  "items": [
+    {
+      "name": "Ground",
+      "quantity": 1.0,
+      "line_total": 16.97,
+      "tax_marker": null
+    }
+  ],
+  "subtotal": 16.97,
+  "tax": 0.0,
+  "total": 16.97,
+  "printed_item_count": null
+}

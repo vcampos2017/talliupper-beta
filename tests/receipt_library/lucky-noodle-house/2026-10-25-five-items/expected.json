@@ -1,0 +1,19 @@
+{
+  "reviewed": true,
+  "reviewed_by": "Written by Claude from the receipt photo and the maintainer's corrections, 2026-10-27; item totals add to the printed subtotal. Maintainer to confirm.",
+  "layout_notes": "Restaurant ticket: ordered quantity before the name, line total with $ after it. OCR dropped the decimal in $29.97 ($2997). Several names continue on a second or third line. Date and time printed together (10/25/26 19:28:26); server name masked. OCR misreads 'Egg' as 'Egq' and 'Crab' as 'Carb'; names keep the OCR spelling.",
+  "known_issue": "RL-57 date joined to time is not read",
+  "store_name": "Lucky Noodle House",
+  "transaction_date": "2026-10-25",
+  "items": [
+    {"name": "Egg Fried Rice", "quantity": 3, "line_total": 29.97, "tax_marker": null},
+    {"name": "Pork Egq Roll(3)", "quantity": 1, "line_total": 5.99, "tax_marker": null},
+    {"name": "Stuffed Carb Rangoon(5)", "quantity": 1, "line_total": 6.99, "tax_marker": null},
+    {"name": "Sauteed Shredded Cabbage", "quantity": 1, "line_total": 9.99, "tax_marker": null},
+    {"name": "Pork & Mushroom Dumplings(20)", "quantity": 1, "line_total": 10.99, "tax_marker": null}
+  ],
+  "subtotal": 63.93,
+  "tax": 5.27,
+  "total": 69.20,
+  "printed_item_count": null
+}

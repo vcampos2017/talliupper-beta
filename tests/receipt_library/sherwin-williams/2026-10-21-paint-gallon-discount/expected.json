@@ -1,0 +1,20 @@
+{
+  "reviewed": true,
+  "reviewed_by": "Written by Claude from the OCR Diagnostic JSON (Dell rerun 2026-11-02) and the RL-42 Dell rerun values (Qty 1, $86.49, -$34.60, $51.89; totals 51.89/4.28/56.17). Maintainer to confirm against the photo.",
+  "layout_notes": "One paint item. Product code and size on the line above the name ('6513-00972 D19W00151 GALLON D19W151'), quantity/unit/total on the line below ('1.00 86.49 86.49'), then 'Discount (% 40.00) -34.60' applied to the item. Colour formula lines (Color, CCE*Color Cast, B1/R2/Y3) follow and are not items. Tax line contains a tax ID ('SALES TAX:1-447821600 4.28'). Names, street address, account, order, transaction, register, card and auth numbers masked. This is the RL-42 quantity bug receipt; the quantity row '1.00 86.49 86.49' has no @ sign.",
+  "known_issue": "RL-69: store name reads as 'SHERWIN-WILLIAMS.' (logo text with trailing period) instead of 'Sherwin-Williams'; cosmetic",
+  "store_name": "Sherwin-Williams",
+  "transaction_date": "2026-10-21",
+  "items": [
+    {
+      "name": "CASHMERE ES EXTRA",
+      "quantity": 1,
+      "line_total": 51.89,
+      "tax_marker": null
+    }
+  ],
+  "subtotal": 51.89,
+  "tax": 4.28,
+  "total": 56.17,
+  "printed_item_count": null
+}

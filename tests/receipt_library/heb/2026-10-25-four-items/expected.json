@@ -1,0 +1,17 @@
+{
+  "reviewed": true,
+  "reviewed_by": "Written by Claude from the receipt photo, 2026-10-25; item totals add to the printed subtotal. Maintainer to confirm.",
+  "layout_notes": "Two-line quantity rows (name, then 'N Ea. @ 1/ price  total'); coupon note under Lindt; ITEMS PURCHASED counts units. Q marker on the zinc row is unknown and left blank.",
+  "store_name": "H-E-B",
+  "transaction_date": "2026-10-25",
+  "items": [
+    {"name": "QUANTUM THERAZINC ELDRBRR", "quantity": 3, "line_total": 8.31, "tax_marker": null},
+    {"name": "LINDT EXCELLENCE SEA SALT", "quantity": 2, "line_total": 7.94, "tax_marker": "T"},
+    {"name": "KEWPIE MAYONNAISE", "quantity": 1, "line_total": 5.37, "tax_marker": "F"},
+    {"name": "GRNS PPKT PB CAP SZ 15.8", "quantity": 1, "line_total": 19.98, "tax_marker": "T"}
+  ],
+  "subtotal": 41.60,
+  "tax": 2.30,
+  "total": 43.90,
+  "printed_item_count": 7
+}

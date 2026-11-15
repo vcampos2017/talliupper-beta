@@ -1,0 +1,19 @@
+{
+  "reviewed": true,
+  "reviewed_by": "Written by Claude from the receipt photo and the maintainer's 2026-11-01 Dell rerun (saved RL-000038: 1 row, qty 3 x 14.49 = 43.47). Maintainer to confirm.",
+  "layout_notes": "One item: UPC, name and line price with T marker, then 'Reg Price: 3@ 14.49' on the next line giving quantity and unit price (RL-43). Printed count '3 Items' near the bottom; OCR merges back-of-receipt show-through onto that line. OCR reads SOPH as S0PH (zero); name keeps the OCR spelling. 'Taxable Total' appears before Subtotal.",
+  "store_name": "Petco",
+  "transaction_date": "2026-09-11",
+  "items": [
+    {
+      "name": "S0PH-30# REFILL FF A",
+      "quantity": 3,
+      "line_total": 43.47,
+      "tax_marker": "T"
+    }
+  ],
+  "subtotal": 43.47,
+  "tax": 3.59,
+  "total": 47.06,
+  "printed_item_count": 3
+}

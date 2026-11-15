@@ -1,0 +1,25 @@
+{
+  "source": "Walmart receipt of 2026-10-11 (saved RL-000073). Merged OCR lines (standard + enhanced pass) from the Dell's OCR Diagnostic export, the same lines tests/test_ocr_recovery.py uses for RL-38.",
+  "redaction": "Store phone, manager name, address, ST#/OP#/TE#/TR#, TC# barcode number, account, approval code and the QR footer left out. The 13-digit run on GLASS WIPES (printed UPC 070612175010 plus a stray digit from the faded price) is masked to its last 6 digits so it can't look like a card number.",
+  "lines": [
+    {"text": "Walmart", "confidence": 0.99, "box": [661, 29, 1187, 151]},
+    {"text": "WM Supercenter", "confidence": 0.99, "box": [732, 159, 1113, 210]},
+    {"text": "# ITEMSOLD 11", "confidence": 0.93, "box": [701, 470, 1115, 530]},
+    {"text": "LDSSGLZH0NBN 024300865400F Cv 2", "confidence": 0.84, "box": [407, 824, 1405, 889]},
+    {"text": "CHEESECAKE 194346717820F 6 NNX", "confidence": 0.99, "box": [414, 880, 1443, 938]},
+    {"text": "GLASS WIPES XXXXXXX750107 X", "confidence": 0.99, "box": [412, 929, 1387, 992]},
+    {"text": "FRENCH BREAD L 200989000000 F 1.47 N", "confidence": 0.89, "box": [410, 980, 1389, 1046]},
+    {"text": "FRENCH BREAD \u9650 200989000000 1. SVA 47 NZ N", "confidence": 0.72, "box": [413, 1038, 1442, 1096]},
+    {"text": "CHEESECAKE 194346717840 F 7.98 N", "confidence": 0.99, "box": [412, 1086, 1443, 1152]},
+    {"text": "DRY SAUSAGE 038616900010 F 8.47 N", "confidence": 0.99, "box": [412, 1143, 1440, 1204]},
+    {"text": "SITE MERCH 889698929570 14.88 X", "confidence": 0.99, "box": [411, 1196, 1404, 1259]},
+    {"text": "SITE MERCH 889698929560 14.88 X", "confidence": 0.99, "box": [413, 1248, 1400, 1310]},
+    {"text": "AVOCADO 750032608690 F", "confidence": 0.99, "box": [413, 1305, 1143, 1361]},
+    {"text": "3 AT 1 FOR 0.56 1.68 N", "confidence": 0.98, "box": [541, 1354, 1447, 1415]},
+    {"text": "LATCH BOXES 073149097330 14.98 X", "confidence": 0.98, "box": [413, 1408, 1447, 1469]},
+    {"text": "SUBTOTAL 78.50", "confidence": 0.99, "box": [898, 1512, 1388, 1569]},
+    {"text": "TAX1 8.2500% 4.02", "confidence": 0.99, "box": [707, 1565, 1388, 1626]},
+    {"text": "TOTAL 82.52", "confidence": 0.99, "box": [975, 1618, 1387, 1678]},
+    {"text": "10/11/26 13:37:41", "confidence": 0.99, "box": [633, 1993, 1198, 2048]}
+  ]
+}

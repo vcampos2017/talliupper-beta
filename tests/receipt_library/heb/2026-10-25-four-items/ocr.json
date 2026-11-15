@@ -1,0 +1,22 @@
+{
+  "source": "TalliUpper OCR Diagnostic JSON (PaddleOCR PP-OCRv5), job a1d4ddf7, live Dell rerun 2026-11-04 of the cropped photo. Replaces the earlier hand-typed lines, which had the printed row numbers and an H-E-B header that real OCR does not return (RL-60).",
+  "redaction": "TalliUpper best-effort redaction. The transaction number is masked except its date digits (MMDD YY), restored by hand; card brand shown as CREDIT CARD.",
+  "lines": [
+    {"text": "E-", "confidence": 0.828, "box": [871, 534, 1056, 652]},
+    {"text": "XXXX XXXX 1025 2616 XXXX XXX", "confidence": 1.0, "box": [637, 709, 1379, 787]},
+    {"text": "QUANTUM THERAZINC ELDRBRR", "confidence": 0.999, "box": [508, 840, 1178, 914]},
+    {"text": "3 Ea.@ 1/ 2.77 8.31 Q", "confidence": 0.975, "box": [639, 905, 1492, 976]},
+    {"text": "2 LINDT EXCELLENCE SEA SALT", "confidence": 1.0, "box": [439, 971, 1169, 1037]},
+    {"text": "2 Ea. @ 1/ 3.97 T 7.94", "confidence": 0.962, "box": [632, 1030, 1433, 1101]},
+    {"text": "COUPON $1.00 orig 4.97 Ea.", "confidence": 1.0, "box": [435, 1097, 1441, 1163]},
+    {"text": "KEWPIE MAYONNAISE F 5.37", "confidence": 1.0, "box": [507, 1153, 1420, 1229]},
+    {"text": "GRNS PPKT PB CAP SZ 15.8 T 19.98", "confidence": 0.991, "box": [504, 1219, 1417, 1284]},
+    {"text": "Subtotal 41.60", "confidence": 0.988, "box": [983, 1341, 1409, 1409]},
+    {"text": "Tax 2.30", "confidence": 1.0, "box": [1102, 1402, 1405, 1474]},
+    {"text": "Total 43.90", "confidence": 1.0, "box": [1051, 1461, 1402, 1533]},
+    {"text": "CREDIT CARD EPS 43.90", "confidence": 0.999, "box": [868, 1573, 1392, 1654]},
+    {"text": "ITEMS PURCHASED: 7", "confidence": 0.985, "box": [727, 1694, 1187, 1759]},
+    {"text": "SALE & PRICE CUT SAVINGS X $1.62", "confidence": 0.869, "box": [451, 1807, 1348, 1880]},
+    {"text": "FREE/COUPON SAVINGS $2.00", "confidence": 1.0, "box": [448, 1867, 1345, 1935]}
+  ]
+}

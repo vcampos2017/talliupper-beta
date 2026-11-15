@@ -1,0 +1,8 @@
+pandas>=2.2.0
+Pillow>=10.4.0
+pypdfium2>=4.30.0,<6
+pillow-heif>=0.18.0
+pydantic>=2.8.0,<3
+python-dotenv>=1.0.1
+reportlab>=4.2.0,<5
+streamlit>=1.63.0,<2

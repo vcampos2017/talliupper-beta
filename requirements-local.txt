@@ -1,0 +1,4 @@
+-r requirements-core.txt
+numpy>=1.26.0,<3
+paddleocr>=3.6.0,<4
+paddlepaddle>=3.2.0,<4

@@ -1,0 +1,56 @@
+{
+  "camera-exchange/2026-10-22-sling-handle": {
+    "status": "PASS",
+    "failed": [],
+    "scored": 13
+  },
+  "heb/2026-10-25-four-items": {
+    "status": "PASS",
+    "failed": [],
+    "scored": 13
+  },
+  "lucky-noodle-house/2026-10-25-five-items": {
+    "status": "KNOWN",
+    "failed": [
+      "date"
+    ],
+    "scored": 12
+  },
+  "petco/2026-09-11-reg-price-three-items": {
+    "status": "PASS",
+    "failed": [],
+    "scored": 13
+  },
+  "rockler/2026-09-24-drill-bit-three-tax-lines": {
+    "status": "KNOWN",
+    "failed": [
+      "tax"
+    ],
+    "scored": 12
+  },
+  "sherwin-williams/2026-10-21-paint-gallon-discount": {
+    "status": "KNOWN",
+    "failed": [
+      "store"
+    ],
+    "scored": 12
+  },
+  "ups-store/2026-10-08-ground-shipping": {
+    "status": "PASS",
+    "failed": [],
+    "scored": 12
+  },
+  "walmart/2026-10-11-faded-rows": {
+    "status": "KNOWN",
+    "failed": [
+      "item_count",
+      "names",
+      "quantities",
+      "line_totals",
+      "tax_markers",
+      "reconciles",
+      "printed_count"
+    ],
+    "scored": 12
+  }
+}

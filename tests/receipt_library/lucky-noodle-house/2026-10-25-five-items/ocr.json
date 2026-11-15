@@ -1,0 +1,256 @@
+{
+  "source": "TalliUpper OCR Diagnostic JSON (PaddleOCR PP-OCRv5)",
+  "redaction": "TalliUpper best-effort redaction applied. Check every line before committing.",
+  "lines": [
+    {
+      "text": "TO GO",
+      "confidence": 0.976,
+      "box": [
+        1094,
+        272,
+        1265,
+        341
+      ]
+    },
+    {
+      "text": "Lucky Noodle House",
+      "confidence": 0.988,
+      "box": [
+        427,
+        341,
+        1246,
+        439
+      ]
+    },
+    {
+      "text": "[REDACTED ADDRESS]",
+      "confidence": 0.989,
+      "box": [
+        679,
+        442,
+        1034,
+        500
+      ]
+    },
+    {
+      "text": "San Antonio, TX 99901",
+      "confidence": 0.962,
+      "box": [
+        603,
+        502,
+        1110,
+        558
+      ]
+    },
+    {
+      "text": "[REDACTED PHONE]",
+      "confidence": 0.999,
+      "box": [
+        698,
+        560,
+        1010,
+        609
+      ]
+    },
+    {
+      "text": "10/25/26192826 XXX",
+      "confidence": 0.968,
+      "box": [
+        426,
+        668,
+        1242,
+        725
+      ]
+    },
+    {
+      "text": "71 TO GO",
+      "confidence": 0.971,
+      "box": [
+        419,
+        744,
+        1241,
+        795
+      ]
+    },
+    {
+      "text": "3 Egg Fried Rice $2997",
+      "confidence": 0.988,
+      "box": [
+        413,
+        840,
+        1239,
+        903
+      ]
+    },
+    {
+      "text": "1 Pork Egq Roll(3) $5.99",
+      "confidence": 0.983,
+      "box": [
+        418,
+        923,
+        1239,
+        984
+      ]
+    },
+    {
+      "text": "Stuffed Carb $6.99",
+      "confidence": 0.998,
+      "box": [
+        523,
+        995,
+        1237,
+        1056
+      ]
+    },
+    {
+      "text": "Rangoon(5)",
+      "confidence": 0.999,
+      "box": [
+        523,
+        1057,
+        810,
+        1114
+      ]
+    },
+    {
+      "text": "Sauteed $9.99",
+      "confidence": 1.0,
+      "box": [
+        520,
+        1132,
+        1238,
+        1193
+      ]
+    },
+    {
+      "text": "Shredded",
+      "confidence": 0.989,
+      "box": [
+        522,
+        1191,
+        761,
+        1245
+      ]
+    },
+    {
+      "text": "Cabbage",
+      "confidence": 1.0,
+      "box": [
+        518,
+        1245,
+        743,
+        1311
+      ]
+    },
+    {
+      "text": "Pork & Mushroom $10.99",
+      "confidence": 1.0,
+      "box": [
+        517,
+        1325,
+        1234,
+        1388
+      ]
+    },
+    {
+      "text": "Dumplings(20)",
+      "confidence": 1.0,
+      "box": [
+        516,
+        1383,
+        879,
+        1442
+      ]
+    },
+    {
+      "text": "Subtotal $63.93",
+      "confidence": 0.988,
+      "box": [
+        427,
+        1443,
+        1235,
+        1500
+      ]
+    },
+    {
+      "text": "Tax $5.27",
+      "confidence": 0.995,
+      "box": [
+        426,
+        1494,
+        1226,
+        1549
+      ]
+    },
+    {
+      "text": "Total: $69.20",
+      "confidence": 0.991,
+      "box": [
+        424,
+        1551,
+        1230,
+        1615
+      ]
+    },
+    {
+      "text": "本** Unpaid 水*",
+      "confidence": 0.844,
+      "box": [
+        602,
+        1657,
+        1024,
+        1730
+      ]
+    },
+    {
+      "text": "Tips Suggestions",
+      "confidence": 0.98,
+      "box": [
+        608,
+        1759,
+        1026,
+        1823
+      ]
+    },
+    {
+      "text": "15%:$10.38",
+      "confidence": 0.975,
+      "box": [
+        682,
+        1818,
+        946,
+        1871
+      ]
+    },
+    {
+      "text": "18%:$12.46",
+      "confidence": 0.968,
+      "box": [
+        678,
+        1868,
+        944,
+        1922
+      ]
+    },
+    {
+      "text": "20%:$1384",
+      "confidence": 0.967,
+      "box": [
+        674,
+        1919,
+        939,
+        1974
+      ]
+    },
+    {
+      "text": "Scan QR code to order from us",
+      "confidence": 0.999,
+      "box": [
+        388,
+        2389,
+        1211,
+        2479
+      ]
+    }
+  ]
+}

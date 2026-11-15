@@ -1,0 +1,246 @@
+{
+  "source": "TalliUpper OCR Diagnostic JSON (PaddleOCR PP-OCRv5)",
+  "redaction": "TalliUpper best-effort redaction applied. Check every line before committing.",
+  "lines": [
+    {
+      "text": "The UPS Store 10123",
+      "confidence": 0.928,
+      "box": [
+        445,
+        157,
+        764,
+        220
+      ]
+    },
+    {
+      "text": "[REDACTED ADDRESS] STE 2",
+      "confidence": 0.972,
+      "box": [
+        438,
+        210,
+        782,
+        270
+      ]
+    },
+    {
+      "text": "SAN ANTONIO. TX 99901-0000",
+      "confidence": 0.933,
+      "box": [
+        439,
+        269,
+        935,
+        322
+      ]
+    },
+    {
+      "text": "[REDACTED PHONE]",
+      "confidence": 0.999,
+      "box": [
+        433,
+        323,
+        645,
+        377
+      ]
+    },
+    {
+      "text": "Terminal....: P0S0123A Date.: 10/8/2026",
+      "confidence": 0.95,
+      "box": [
+        449,
+        432,
+        1367,
+        492
+      ]
+    },
+    {
+      "text": "Employee....: [REDACTED] Tine.: 09:08 AM",
+      "confidence": 0.957,
+      "box": [
+        446,
+        492,
+        1350,
+        548
+      ]
+    },
+    {
+      "text": "ITEM NAME QTY PRICE 101AL",
+      "confidence": 0.965,
+      "box": [
+        430,
+        603,
+        1363,
+        661
+      ]
+    },
+    {
+      "text": "Ground $16.97",
+      "confidence": 0.998,
+      "box": [
+        429,
+        717,
+        1368,
+        773
+      ]
+    },
+    {
+      "text": "13 $16.97",
+      "confidence": 0.917,
+      "box": [
+        932,
+        776,
+        1177,
+        830
+      ]
+    },
+    {
+      "text": "Tex $0.00",
+      "confidence": 0.912,
+      "box": [
+        448,
+        830,
+        1367,
+        886
+      ]
+    },
+    {
+      "text": "Subtotal $16.97",
+      "confidence": 1.0,
+      "box": [
+        452,
+        946,
+        1367,
+        999
+      ]
+    },
+    {
+      "text": "Shipping/Other Charges $0.00",
+      "confidence": 0.998,
+      "box": [
+        486,
+        997,
+        1366,
+        1054
+      ]
+    },
+    {
+      "text": "Total tax $0.00",
+      "confidence": 0.996,
+      "box": [
+        491,
+        1055,
+        1367,
+        1111
+      ]
+    },
+    {
+      "text": "Total $16.97",
+      "confidence": 0.987,
+      "box": [
+        453,
+        1160,
+        1365,
+        1222
+      ]
+    },
+    {
+      "text": "Cards $16.97",
+      "confidence": 1.0,
+      "box": [
+        472,
+        1273,
+        1364,
+        1336
+      ]
+    },
+    {
+      "text": "the te ny kithap",
+      "confidence": 0.502,
+      "box": [
+        1033,
+        1358,
+        1122,
+        1371
+      ]
+    },
+    {
+      "text": "4445M03",
+      "confidence": 0.208,
+      "box": [
+        997,
+        1368,
+        1122,
+        1382
+      ]
+    },
+    {
+      "text": "Itens Designated NR are NOT eligible",
+      "confidence": 0.998,
+      "box": [
+        579,
+        1382,
+        1194,
+        1454
+      ]
+    },
+    {
+      "text": "for Returns. Refunds or Exchanges.",
+      "confidence": 0.973,
+      "box": [
+        611,
+        1440,
+        1189,
+        1510
+      ]
+    },
+    {
+      "text": "US Postal Rates Are Subject to Surcharge.",
+      "confidence": 0.996,
+      "box": [
+        543,
+        1545,
+        1244,
+        1625
+      ]
+    },
+    {
+      "text": "[REDACTED PHONE]A000000",
+      "confidence": 1.0,
+      "box": [
+        503,
+        1808,
+        1318,
+        1902
+      ]
+    },
+    {
+      "text": "Vieu The UPS Store, Inc.'s privacy notice at",
+      "confidence": 0.905,
+      "box": [
+        511,
+        1909,
+        1285,
+        1992
+      ]
+    },
+    {
+      "text": "https://www.theupsstore.com/privacy-policy",
+      "confidence": 0.948,
+      "box": [
+        525,
+        1967,
+        1267,
+        2048
+      ]
+    },
+    {
+      "text": "Win a $250 gift card",
+      "confidence": 1.0,
+      "box": [
+        529,
+        2084,
+        1225,
+        2152
+      ]
+    }
+  ]
+}
